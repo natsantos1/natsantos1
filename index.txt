@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+</head>
+   <title>Lesson 1</title>
+   <meta charset="UTF-8">
+</head>
+<body>
+<h1>Nathan Santos</h1>
+<br>
+<p>I am a junior at <strong>Singley Academy</strong>.</p>
+
+
+
+
+
+
+
+</body>
+</html>
